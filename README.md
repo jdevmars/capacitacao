@@ -6,5 +6,5 @@ As still a novice, someone who's started Java for the web not much before, this 
 
 Modeling the data, creating the tables, working with queries to join tables, making use of JDBC to extract data with Java, creating the frontend, sharing the extracted data with ChartJS for charts production, I feel so good when I see that I could do it alone.
 
-This software was intended to help searching for companies and people that have already received training, when, what and who, to keep track of everything so that my boss can be awake of the high energy I've been investing on client training for the company. Nevertheless, after I first showed him and my colleague this software, there was timid reaction to this, my greatest technical achievement. Nobody has been using this application, so I stopped bringing more data to its database. 
+This software was intended to help searching for companies and people that have already received training, when, what and who, to keep track of everything so that my boss can be aware of the high energy I've been investing on client training for the company. Nevertheless, after I first showed him and my colleague this software, there was timid reaction to this, my greatest technical achievement. Nobody has been using this application, so I stopped bringing more data to its database. 
 
