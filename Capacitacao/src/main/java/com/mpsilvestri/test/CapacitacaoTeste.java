@@ -23,7 +23,7 @@ public class CapacitacaoTeste extends HttpServlet {
 		
 		String URL = "jdbc:mysql://localhost:3306/capacitacao";
 		String USER = "root";
-		String PASS = "admin@123456";
+		String PASS = ":-]";
 		Statement stmt = null;
 		
 		Date data;
