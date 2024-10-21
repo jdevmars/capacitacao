@@ -10,18 +10,18 @@ public class Database {
 	/*
 	private String URL = "jdbc:mysql://localhost:3306/capacitacao";
 	private String USER = "root";
-	private String PASS = "admin@123456";
+	private String PASS = ":)";
 	*/
 	
 	/*
 	private String URL = "jdbc:mysql://mysql3000.mochahost.com:3306/mpsilves_capacitacao";
 	private String USER = "mpsilves_mars";
-	private String PASS = "M@arcosP@aulo01";
+	private String PASS = ":(";
 	*/
 	
 	private static String URL = "jdbc:mysql://148.113.153.60:3306/marco4326_capacitacao";
 	private static String USER = "marco4326_admin";
-	private static String PASS = "M@arcosP@aulo01";
+	private static String PASS = "^__~";
 	
 	public static Connection connection;
 	
